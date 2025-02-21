@@ -1,0 +1,36 @@
+.habilidades{
+    background: #c8d5e5;
+    position: relative;
+    top: 370px;
+    left:5%;
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    padding: 10px;
+
+
+}
+.habilidades ul,h4{
+    color: #204163;
+    font-family: 'Poppins', sans-serif;
+}
+.habilidades-tecnicas{
+    background-color: #c8d5e5;
+    position: relative;
+    top: 100px;
+    left: 50%;
+    padding: 20px;
+    height: auto;
+    width: 500px;
+    margin: 20px;
+
+}
+.habilidades-tecnicas{
+    font-family: 'Poppins', sans-serif;
+}
+
+footer{
+    position: relative;
+    top:300px;
+
+}

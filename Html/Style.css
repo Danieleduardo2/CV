@@ -1,0 +1,56 @@
+
+.contenedorh{
+    display:flex;
+    align-items: center;
+    gap:10px;
+    background: #183e51;
+    padding: 1px;
+    position: absolute;
+    width: 100%;
+    height: 48%;
+    z-index: 1;
+    margin-bottom:30px;
+}
+.perfiltexto{
+    background: white;
+
+    width: 200%;
+    height: 110%;
+    position: relative;
+    left: 70%;
+    bottom: 150px;
+    z-index: 2;
+}
+.perfilnom{
+    left: 10%;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: rgba(33, 84, 105, 0.99);
+}
+.perfilrol{
+    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    color: rgba(33, 84, 105, 0.99);
+    position:relative;
+    left: 10%;
+    bottom: 19px;
+}
+
+.perfilcont{
+    width:290px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 60%;
+    position: relative;
+    top:100px;
+    z-index: 3;
+}
+.perfilcont img{
+    width: 100%;
+    height: auto;
+}
+.navtext{
+    z-index: 7;
+}
