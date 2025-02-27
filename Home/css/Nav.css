@@ -1,0 +1,48 @@
+.navegacion{
+    position: relative;
+    top: 286px;
+    width: 100%;
+    height: 45px;
+    background: rgba(33, 84, 105, 0.99);
+    align-content: center;
+    margin-left: 10px;
+}
+.navtext{
+    position: relative;
+    padding-left: 200px;
+}
+.navtext a{
+    color: white;
+    text-decoration: none;
+    align-content: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 9px;
+    transition: font-size 0.3s ease-in-out;
+}
+a:hover{
+    font-size: 20px;
+    color: #ff6600;
+}
+.logos{
+    position: relative;
+    top: 300px;
+    left: 10%;
+    text-align-last: center;
+    width: 80%;
+    height: 2%;
+    background: rgba(33, 84, 105, 0.99);
+}
+.logos img:hover {
+    transform: scale(1.1);
+}
+.logos img{
+    width: 100px;
+    height: auto;
+    padding:10px;
+}
+
+.logos .logo_java{
+    padding-bottom: 3%;
+}
+
+
